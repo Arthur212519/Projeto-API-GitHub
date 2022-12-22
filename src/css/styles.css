@@ -193,3 +193,8 @@ main {
     padding: 0;
   }
 }
+.repo-Info{
+  display: flex;
+  justify-content: space-between;
+}
+
